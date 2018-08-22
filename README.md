@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* Awesome Bot
+* Simple Bot
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Awesome Bot
+* Simple Bot
 
 ## Getting started
 
